@@ -19,6 +19,9 @@ Part 2:
 Part 3: 
    * Find a path that is both short and accessible
 
+Part 4: 
+   * Travelling Salesman problem
+
 
 
 
